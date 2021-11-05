@@ -1,4 +1,17 @@
 {
+  "name": "api",
+  "version": "1.0.0",
+  "description": "Testing a Blog Engine in React",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Carlos-BoteroVargas/carlos-blog-engine.git"
+  },
+  "author": "Carlos Botero-Vargas",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/Carlos-BoteroVargas/carlos-blog-engine"
+  },
+  "homepage": "https://github.com/Carlos-BoteroVargas/carlos-blog-engine#readme",
   "private": true,
   "scripts": {
     "dev": "next dev",
@@ -6,9 +19,15 @@
     "start": "next start"
   },
   "dependencies": {
+    "graphql": "^16.0.1",
+    "graphql-request": "^3.6.1",
+    "html-react-parser": "^1.4.0",
+    "moment": "^2.29.1",
     "next": "latest",
     "react": "^17.0.2",
-    "react-dom": "^17.0.2"
+    "react-dom": "^17.0.2",
+    "react-multi-carousel": "^2.6.5",
+    "sass": "^1.43.4"
   },
   "devDependencies": {
     "autoprefixer": "^10.2.6",
