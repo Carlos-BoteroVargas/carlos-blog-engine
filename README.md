@@ -1,3 +1,36 @@
+
+# Blog Engine using Next.js
+
+Building on the serverless architecture proposed by NExt.js and the GraphQL schemas hosted on GraphCMS, I have completed a blog engine that allows for entries, categories, author's bios, and comments.
+
+Each entry in the blog allows for fully enriched text with markup abilities.
+
+
+![Logo](https://media.graphcms.com/4KNymc4SO3AR1sczNjge)
+
+
+## Demo
+
+- [Live website](#)
+
+
+## Author
+
+- [@Carlos-BoteroVargas](https://github.com/Carlos-BoteroVargas)
+
+
+## Screenshots
+
+![Blog Screenshot](https://media.graphcms.com/V5r4mHbRzmASh8t6rC5A)
+
+
+## License
+
+[MIT](https://github.com/Carlos-BoteroVargas/carlos-blog-engine/blob/main/LICENSE)
+
+
+<hr>
+
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
