@@ -1,4 +1,3 @@
-
 # Blog Engine using Next.js
 
 Building on the serverless architecture proposed by NExt.js and the GraphQL schemas hosted on GraphCMS, I have completed a blog engine that allows for entries, categories, author's bios, and comments.
